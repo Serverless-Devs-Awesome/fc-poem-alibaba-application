@@ -2,7 +2,7 @@ Type: Application
 Name: fc-poem
 Version: 0.0.7
 Provider:
-  - Alibaba
+  - 阿里云
 Description: 基于阿里云函数计算的自动写诗应用
 HomePage: https://serverless.aliyun.com/
 Tags:
